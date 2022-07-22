@@ -21,7 +21,6 @@ public class Radio {
         this.maxStation = maxStation;
     }
 
-
     public Radio() {
     }
 
